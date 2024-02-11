@@ -69,14 +69,7 @@
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=DarrylBayliss&&style=flat-square" align="center" />
-</div>  
   
-
-<br/>  
-
 <div align="center">
             <a href="https://ko-fi.com/darrylbayliss" target="_blank" style="display: inline-block;">
                 <img
