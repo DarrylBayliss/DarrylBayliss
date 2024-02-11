@@ -31,7 +31,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
 </td></tr></table>  
 
@@ -67,10 +67,6 @@
 - [Getting Started With Flutter: Part Two](https://darrylbayliss.net/getting-started-with-flutter-part-two/)
 - [Getting Started With Flutter: Part One](https://darrylbayliss.net/getting-started-with-flutter-part-one/)
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
