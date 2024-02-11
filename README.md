@@ -4,9 +4,9 @@
 
 - ☁️ I’m currently learning about Google Cloud  
 
-- ❓ Ask me about Mobile Development & AWS  
+- ❓ Ask me about Mobile Development, Full Stack Development & AWS 
   
-<br/>  
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -50,12 +50,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DarrylBayliss&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
