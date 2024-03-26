@@ -41,9 +41,16 @@
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" height="50" /></a>  
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>
 </div>
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
+
+### Certifications
+
+<table><tr><td>
+<a href="https://www.credly.com/badges/0fcc89e7-82ea-495a-a827-f141ce9a9416" target="_blank"> <img src="/aws-certified-solutions-architect-associate.png" alt="AWS" height="150"/> </a>
+<a href="https://google.accredible.com/b1028e3b-89d1-4aea-b5b4-39fcc83c8521#gs.6ziddq" target="_blank"> <img src="/google-cloud-architect-professional.png" alt="Google Cloud" height="150"/> </a>
+</td></tr></table>
 
 ## Connect with me  
 <div align="center">
