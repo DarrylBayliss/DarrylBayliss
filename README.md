@@ -49,7 +49,7 @@
 
 <table><tr><td>
 <a href="https://www.credly.com/badges/0fcc89e7-82ea-495a-a827-f141ce9a9416" target="_blank"> <img src="/aws-certified-solutions-architect-associate.png" alt="AWS" height="150"/> </a>
-<a href="https://google.accredible.com/b1028e3b-89d1-4aea-b5b4-39fcc83c8521#gs.6ziddq" target="_blank"> <img src="/google-cloud-architect-professional.png" alt="Google Cloud" height="150"/> </a>
+<a href="https://www.credly.com/earner/earned/badge/d2233a2a-4704-44d2-b231-d73a9b5652d7" target="_blank"> <img src="/google-cloud-architect-professional.png" alt="Google Cloud" height="150"/> </a>
 </td></tr></table>
 
 ## Connect with me  
