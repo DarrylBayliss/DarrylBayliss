@@ -1,10 +1,10 @@
 ### <div align="center">Hi, I'm Darryl. A software engineer from London, UK</div>  
 
-- 💳 Working as an Android Engineer at Tymit
+- 💼 I'm available for hire! Looking for permenant or contract based roles.
 
-- 🎞️ I’m currently learning about [MediaPipe](https://developers.google.com/mediapipe)
+- ⚛️ I’m currently learning about [React Native](https://reactnative.dev/)
 
-- ❓ Ask me about Mobile Development, Full Stack Development or Cloud Development (AWS & Google Cloud).
+- ❓ Ask me about Mobile Development, Full Stack Development or Cloud Architecture (AWS & Google Cloud).
   
 <br/>
 
