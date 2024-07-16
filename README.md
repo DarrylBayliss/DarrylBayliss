@@ -1,8 +1,8 @@
 ### <div align="center">Hi, I'm Darryl. A software engineer from London, UK</div>  
 
-- 💼 I'm available for hire! Looking for permenant or contract based roles.
+- 💼 I'm available for hire for permenent or contract based roles! Read more about my experience [here](https://www.darrylbayliss.net/about/).
 
-- ⚛️ I’m currently learning about [React Native](https://reactnative.dev/)
+- ⚛️ I’m currently learning about [React Native](https://reactnative.dev/).
 
 - ❓ Ask me about Mobile Development, Full Stack Development or Cloud Architecture (AWS & Google Cloud).
   
