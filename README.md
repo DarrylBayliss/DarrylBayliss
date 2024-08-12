@@ -1,8 +1,8 @@
 ### <div align="center">Hi, I'm Darryl. A software engineer from London, UK</div>  
 
-- 💼 I'm available for hire for permanent or contract based roles! Read more about my experience [here](https://www.darrylbayliss.net/about/).
+- 💼 I'm a Tech Lead working at Novoda.
 
-- ⚛️ I’m currently learning about [React Native](https://reactnative.dev/).
+- ⚛️ I’m currently learning about [MongoDB](https://www.mongodb.com).
 
 - ❓ Ask me about Mobile Development, Full Stack Development or Cloud Architecture (AWS & Google Cloud).
   
