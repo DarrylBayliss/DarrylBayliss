@@ -70,11 +70,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Getting Setup With Xcode Cloud](https://darrylbayliss.net/getting-setup-with-xcode-cloud/)
 - [Which Map Transformation Should I Use?](https://darrylbayliss.net/which-map-transformation-should-i-use/)
 - [Playing Simon Says with Gemma-2b and MediaPipe](https://darrylbayliss.net/playing-simon-says-with-gemma-and-mediapipe/)
 - [Interacting with Apple Maps Through URL Parameters](https://darrylbayliss.net/interacting-with-apple-maps-through-url-parameters/)
 - [Building EV Buddy](https://darrylbayliss.net/building-ev-buddy/)
-- [Jetpack Compose for Maps](https://darrylbayliss.net/jetpack-compose-for-maps/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
