@@ -2,7 +2,7 @@
 
 - 💼 I'm a Tech Lead working at Novoda.
 
-- ⚛️ I’m currently learning about [MongoDB](https://www.mongodb.com).
+- 🎮 I’m currently learning about [Unity](https://unity.com/).
 
 - ❓ Ask me about Mobile Development, Full Stack Development or Cloud Architecture (AWS & Google Cloud).
   
