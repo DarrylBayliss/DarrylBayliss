@@ -70,11 +70,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Running a RAG powered language model on Android using MediaPipe](https://darrylbayliss.net/running-a-rag-powered-language-model-on-android-using-mediapipe/)
 - [Multiplatform Development for Apple Devices](https://darrylbayliss.net/multiplatform-development-for-apple-devices/)
 - [Getting Setup With Xcode Cloud](https://darrylbayliss.net/getting-setup-with-xcode-cloud/)
 - [Which Map Transformation Should I Use?](https://darrylbayliss.net/which-map-transformation-should-i-use/)
 - [Playing Simon Says with Gemma-2b and MediaPipe](https://darrylbayliss.net/playing-simon-says-with-gemma-and-mediapipe/)
-- [Interacting with Apple Maps Through URL Parameters](https://darrylbayliss.net/interacting-with-apple-maps-through-url-parameters/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
