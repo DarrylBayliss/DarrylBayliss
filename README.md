@@ -54,15 +54,18 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://twitter.com/darryl_bayliss" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/darrylbayliss" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img alt="linkedin" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@darrylbayliss" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+<a href="https://bsky.app/profile/darrylbayliss.bsky.social" target="_blank">
+<img alt="Bluesky" src=https://img.shields.io/bluesky/followers/darrylbayliss.bsky.social?style=for-the-badge&color=blue style="margin-bottom: 5px;"/>
+</a>
+<a href="https://x.com/darryl_bayliss" target="_blank">
+<img alt="x" src=https://img.shields.io/twitter/follow/darryl_bayliss?style=for-the-badge&logo=x style="margin-bottom: 5px;" />
+</a>
+<a href="https://mastodon.social/@darryl_bayliss" target="_blank">
+<img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109252834014768438?style=for-the-badge&logo=mastodon&logoColor=p&color=purple">
+</a>
 </div>  
   
 
