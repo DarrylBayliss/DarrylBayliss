@@ -16,7 +16,7 @@
 
 <h2>Frontend</h2>
 
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="120" /></a>
+<a href="https://developer.android.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="120" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="120" /></a>
 <a href="https://flutter.dev/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="120" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="120" /></a>
@@ -36,7 +36,7 @@
 <h2>Cloud</h2>
 
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="180" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" height="180" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Google Cloud" height="180" /></a>
 
 </td>
 </tr>
