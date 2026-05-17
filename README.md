@@ -1,6 +1,6 @@
 ### <div align="center">Hi, I'm Darryl. A software engineer from London, UK</div>  
 
-- 💼 I'm a Tech Lead working at Novoda.
+- 💼 I'm a Tech Lead currently working with Novoda.
 
 - 🎮 I’m currently learning about [Unity](https://unity.com/).
 
@@ -9,7 +9,7 @@
 <br/>
 
 ## My Skill Set  
-<table><tr><td valign="top">
+<table style="width: 100%;"><tr><td valign="top">
 
 ### Frontend  
 <div align="center">  
