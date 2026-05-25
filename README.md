@@ -49,7 +49,7 @@
 <a href="https://www.credly.com/badges/0fcc89e7-82ea-495a-a827-f141ce9a9416" target="_blank"><img src="/aws-certified-solutions-architect-associate.png" alt="AWS" height="150"/></a>
 <a href="https://www.credly.com/earner/earned/badge/d2233a2a-4704-44d2-b231-d73a9b5652d7" target="_blank"><img src="/google-cloud-architect-professional.png" alt="Google Cloud" height="150"/></a>
 
-## Connect with me  
+## Connect with me
 <div align="center">
 <a href="https://darrylbayliss.net" target="_blank">
 <img alt="Personal Blog" src=https://img.shields.io/badge/Personal_Blog-gray?style=for-the-badge style="margin-bottom: 5px;" />
