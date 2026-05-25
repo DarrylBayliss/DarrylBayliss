@@ -1,20 +1,22 @@
-### <div align="center">Hi, I'm Darryl. A software engineer from London, UK</div>  
+<div align="center">Hi, I’m Darryl. A software engineer from London, UK</div>
 
-- 💼 I'm a Tech Lead currently working with Novoda.
+<div align="center">I help businesses achieve their goals through software — specialising in mobile (Android & iOS), full-stack web, and cloud architecture on AWS & Google Cloud.</div>
 
-- 🎮 I’m currently learning about [Unity](https://unity.com/).
+- 💼 Tech Lead & consultant at [Daz Software](https://dazsoftware.com/), with over a decade of experience across education, fintech, health & fitness, eCommerce, and smart mobility.
 
-- ❓ Ask me about Mobile Development, Full Stack Development or Cloud Architecture (AWS & Google Cloud).
-  
-<br/>
+- 🗣️ I speak at conferences, write technical books, and publish regular blog posts.
 
-## My Skill Set  
+- 📬 Ask me about Mobile Development, Full-Stack Web, or Cloud Architecture (AWS & Google Cloud).
+
+- 🎮 Currently learning [Unity](https://unity.com/).
+
+## My Skill Set
 
 <table width="100%">
 <tr>
 <td valign="top" width="33%" align="center">
 
-<h2>Frontend</h2>
+<h2>Mobile & Frontend</h2>
 
 <a href="https://developer.android.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="120" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="120" /></a>
@@ -35,21 +37,17 @@
 
 <h2>Cloud</h2>
 
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="180" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Google Cloud" height="180" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="120" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Google Cloud" height="120" /></a>
 
 </td>
 </tr>
 </table>
 
-<br/>
+## Certifications
 
-### Certifications
-
-<table><tr><td>
-<a href="https://www.credly.com/badges/0fcc89e7-82ea-495a-a827-f141ce9a9416" target="_blank"> <img src="/aws-certified-solutions-architect-associate.png" alt="AWS" height="150"/> </a>
-<a href="https://www.credly.com/earner/earned/badge/d2233a2a-4704-44d2-b231-d73a9b5652d7" target="_blank"> <img src="/google-cloud-architect-professional.png" alt="Google Cloud" height="150"/> </a>
-</td></tr></table>
+<a href="https://www.credly.com/badges/0fcc89e7-82ea-495a-a827-f141ce9a9416" target="_blank"><img src="/aws-certified-solutions-architect-associate.png" alt="AWS" height="150"/></a>
+<a href="https://www.credly.com/earner/earned/badge/d2233a2a-4704-44d2-b231-d73a9b5652d7" target="_blank"><img src="/google-cloud-architect-professional.png" alt="Google Cloud" height="150"/></a>
 
 ## Connect with me  
 <div align="center">
@@ -68,10 +66,7 @@
 <a href="https://mastodon.social/@darryl_bayliss" target="_blank">
 <img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109252834014768438?style=for-the-badge&logo=mastodon&logoColor=p&color=purple">
 </a>
-</div>  
-  
-
-<br/>  
+</div>
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
@@ -80,6 +75,4 @@
 - [Multiplatform Development for Apple Devices](https://darrylbayliss.net/multiplatform-development-for-apple-devices/)
 - [Getting Setup With Xcode Cloud](https://darrylbayliss.net/getting-setup-with-xcode-cloud/)
 - [Which Map Transformation Should I Use?](https://darrylbayliss.net/which-map-transformation-should-i-use/)
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>
+<!-- BLOG-POST-LIST:END -->
