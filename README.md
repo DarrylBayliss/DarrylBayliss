@@ -1,12 +1,10 @@
-<div align="center">Hi, I’m Darryl. A software engineer from London, UK</div>
+<div align="center">Hi, I’m Darryl. A software engineer from London in the UK</div>
 
-<div align="center">I help businesses achieve their goals through software — specialising in mobile (Android & iOS), full-stack web, and cloud architecture on AWS & Google Cloud.</div>
+<div align="center">I help businesses achieve their goals through software. Specialising in mobile (Android & iOS), full-stack web, and cloud architecture on AWS & Google Cloud.</div>
 
 - 💼 Tech Lead & consultant at [Daz Software](https://dazsoftware.com/), with over a decade of experience across education, fintech, health & fitness, eCommerce, and smart mobility.
 
 - 🗣️ I speak at conferences, write technical books, and publish regular blog posts.
-
-- 📬 Ask me about Mobile Development, Full-Stack Web, or Cloud Architecture (AWS & Google Cloud).
 
 - 🎮 Currently learning [Unity](https://unity.com/).
 
