@@ -68,9 +68,9 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [I’m Building for Shipaton 2026: Two Weeks In](https://darrylbayliss.net/im-building-for-shipaton-2026-week-two/)
 - [I’m Building for Shipaton 2026](https://darrylbayliss.net/im-building-for-shipaton-2026/)
 - [Using Apple’s Foundational Models in the Shortcuts App](https://darrylbayliss.net/using-apples-foundational-models-in-the-shortcuts-app/)
 - [Running a RAG powered language model on Android using MediaPipe](https://darrylbayliss.net/running-a-rag-powered-language-model-on-android-using-mediapipe/)
 - [Multiplatform Development for Apple Devices](https://darrylbayliss.net/multiplatform-development-for-apple-devices/)
-- [Getting Setup With Xcode Cloud](https://darrylbayliss.net/getting-setup-with-xcode-cloud/)
 <!-- BLOG-POST-LIST:END -->
