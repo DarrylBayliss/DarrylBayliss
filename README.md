@@ -68,9 +68,9 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [I’m Building for Shipaton 2026: Five weeks In](https://darrylbayliss.net/im-building-for-shipaton-2026-week-five/)
 - [How to build a KMP Library using Xcode Cloud](https://darrylbayliss.net/how-to-build-a-kmp-library-using-xcode-cloud/)
 - [I’m Building for Shipaton 2026: Four weeks in!](https://darrylbayliss.net/im-building-for-shipaton-2026-week-four/)
 - [I’m Building for Shipaton 2026: Three Weeks In](https://darrylbayliss.net/im-building-for-shipaton-2026-week-three/)
 - [I’m Building for Shipaton 2026: Two Weeks In](https://darrylbayliss.net/im-building-for-shipaton-2026-week-two/)
-- [I’m Building for Shipaton 2026](https://darrylbayliss.net/im-building-for-shipaton-2026/)
 <!-- BLOG-POST-LIST:END -->
